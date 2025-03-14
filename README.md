@@ -1,4 +1,8 @@
 XSS payloads list!
+
+I will update this with useful payloads that i found during my security assessments
+
+@b1tm4r
 --
 
 ```"-prompt(8)-"
